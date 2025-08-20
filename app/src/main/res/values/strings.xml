@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EducationAccessPlatform</string>
+    <string name="education_access_platform_nversion_1_0_n_ndeveloped_in_kotlin">Education Access Platform\nVersion 1.0\n\nDeveloped in Kotlin</string>
+</resources>
